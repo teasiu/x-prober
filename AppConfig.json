@@ -1,15 +1,14 @@
 {
   "APP_VERSION": "8.16",
-  "APP_NAME": "X Prober",
-  "APP_URL": "https://github.com/kmvan/x-prober",
+  "APP_NAME": "海纳思系统探针",
+  "APP_URL": "https://github.com/teasiu/x-prober",
   "AUTHOR_URL": "https://inn-studio.com/prober",
   "UPDATE_PHP_URLS": [
-    "https://raw.githubusercontent.com/kmvan/x-prober/master/dist/prober.php",
-    "https://api.inn-studio.com/download/?id=xprober"
+    "https://www.ecoo.top",
+    "https://bbs.histb.com"
   ],
   "APP_CONFIG_URLS": [
-    "https://raw.githubusercontent.com/kmvan/x-prober/master/AppConfig.json",
-    "https://api.inn-studio.com/download/?id=xprober-config"
+    "https://raw.githubusercontent.com/teasiu/x-prober/master/AppConfig.json"
   ],
   "APP_CONFIG_URL_DEV": "http://localhost:8000/AppConfig.json",
   "APP_TEMPERATURE_SENSOR_URL": "http://127.0.0.1",
