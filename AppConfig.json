@@ -2,24 +2,24 @@
   "APP_VERSION": "8.16",
   "APP_NAME": "海纳思系统探针",
   "APP_URL": "https://github.com/teasiu/x-prober",
-  "AUTHOR_URL": "https://inn-studio.com/prober",
+  "AUTHOR_URL": "https://www.ecoo.top",
   "UPDATE_PHP_URLS": [
     "https://www.ecoo.top",
     "https://bbs.histb.com"
   ],
   "APP_CONFIG_URLS": [
-    "https://raw.githubusercontent.com/teasiu/x-prober/master/AppConfig.json"
+    "https://raw.histb.eu.org/teasiu/x-prober/master/AppConfig.json"
   ],
   "APP_CONFIG_URL_DEV": "http://localhost:8000/AppConfig.json",
   "APP_TEMPERATURE_SENSOR_URL": "http://127.0.0.1",
   "APP_TEMPERATURE_SENSOR_PORTS": [2048, 4096],
-  "AUTHOR_NAME": "INN STUDIO",
+  "AUTHOR_NAME": "海纳思系统",
   "LATEST_PHP_STABLE_VERSION": "8",
   "LATEST_NGINX_STABLE_VERSION": "1.22.0",
   "BENCHMARKS": [
     {
       "name": "Olink / AMD-3700X / PHP82 JIT",
-      "url": "https://www.olink.cloud/clients/aff.php?aff=120",
+      "url": "https://www.olink.cloud",
       "date": "2023-05-02",
       "proberUrl": "https://x-prober-server-benchmark-olink-frk.inn-studio.com",
       "binUrl": "https://speedtest.fishfish.date",
@@ -31,7 +31,7 @@
     },
     {
       "name": "RamNode / PHP82 JIT",
-      "url": "https://clientarea.ramnode.com/aff.php?aff=4143",
+      "url": "https://clientarea.ramnode.com",
       "date": "2023-05-02",
       "proberUrl": "https://x-prober-server-benchmark-ramnode-sea.inn-studio.com",
       "binUrl": "https://x-prober-server-benchmark-ramnode-sea.inn-studio.com/512m.bin",
@@ -43,7 +43,7 @@
     },
     {
       "name": "SpartanHost / HDD / PHP80 JIT",
-      "url": "https://billing.spartanhost.net/aff.php?aff=801",
+      "url": "https://billing.spartanhost.net",
       "date": "2021-07-17",
       "proberUrl": "https://x-prober-server-benchmark-spartanhost-dalls.inn-studio.com",
       "detail": {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Vultr / Tokyo / PHP82 JIT",
-      "url": "https://www.vultr.com/?ref=7826363-4F",
+      "url": "https://www.vultr.com/",
       "date": "2023-05-02",
       "proberUrl": "https://x-prober-server-benchmark-vultr-tokyo.inn-studio.com/",
       "binUrl": "https://hnd-jp-ping.vultr.com/vultr.com.100MB.bin",
@@ -66,7 +66,7 @@
     },
     {
       "name": "BandwagonHOST / KVM / PHP80 JIT",
-      "url": "https://bandwagonhost.com/aff.php?aff=34116",
+      "url": "https://bandwagonhost.com/",
       "proberUrl": "https://x-prober-server-benchmark-bwh-los-angeles.inn-studio.com/",
       "binUrl": "https://x-prober-server-benchmark-bwh-los-angeles.inn-studio.com/512m.bin",
       "date": "2021-07-17",
