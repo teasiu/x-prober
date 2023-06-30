@@ -10,7 +10,7 @@ final class Timezone
     {
         EventsApi::on('init', function ($action) {
             if ( ! \ini_get('date.timezone')) {
-                date_default_timezone_set('GMT');
+                date_default_timezone_set('PRC');
             }
 
             return $action;
